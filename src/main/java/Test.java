@@ -20,7 +20,7 @@ public class Test {
                         break;
                     }
                     if(j >=lens)
-                        System.out.println(-1 + " " + -1);
+                        System.out.println(1 + " " + -1);
                 }
             }
         }
